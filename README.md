@@ -24,4 +24,4 @@ index/        -> Search indexing
 api/          -> Search API
 web/          -> User interface
 
-This repository is being developed as part of the Object-Oriented Systems Analysis and Design project.
+
